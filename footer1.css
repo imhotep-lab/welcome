@@ -1,0 +1,48 @@
+
+#newspaper {
+margin-top:30px;
+width: 100%;
+height:300px;
+background-color:#530754; 
+
+color:#fff;
+
+/*  ********************************  */
+
+
+-webkit-columns: 100px 3; /* Chrome, Safari, Opera */
+
+-moz-columns: 100px 3; /* Firefox */
+
+columns: 100px 3;
+
+}
+
+
+
+/* ################################## */
+
+
+#newspaper p a{
+color: white;
+/*v!*/
+}
+
+
+#newspaper ul li  a{
+color: white;
+padding-left:0;
+}
+
+
+#newspaper   a{
+color: white;
+padding-left:0;
+/* v!*/
+}
+
+
+
+/* ################################## */
+
+

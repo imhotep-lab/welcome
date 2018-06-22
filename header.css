@@ -1,0 +1,85 @@
+/*header.css*/
+
+
+/*  ############################################################   */
+ 
+ /* For Header */
+ 
+#header {
+width: 90%;  /* 100*/   /*  diminuer sa  taille pour qu'il n'influence pas #langages   de langages.css'*/
+
+
+
+
+
+/*position : absolute;       non utile : ne pa insfluencer boostrap pour  stabilser  le menu */
+
+margin-top: 3px; /* 117px  106px;  91px  72 px48px 12 px;  pour imposer au menu de descendre un peu plus bas*/
+margin-bottom :50px;
+
+/*height: 50px;*/
+
+}
+
+
+#header ul {
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#ffff ;   /*  #7d1ba5   #333;*/
+}
+
+
+#header li {
+float: left;
+
+}
+
+
+
+#header a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:  ;
+}
+
+
+
+#header li a:hover:not(.active)  {
+
+    background-color:    #bf2ad4   ;/*   #490e48  #490e48   #ffff*/
+    
+    /*coloration partielle en arriere plan : le meme violet: mais assoupli : */
+}
+
+
+
+div.header img {
+    width: 100%;
+    height: auto;
+   /* position: fixed;*/
+}
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/*  ############################################################   */
+
+
+
+
+
+

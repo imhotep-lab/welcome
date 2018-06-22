@@ -1,0 +1,41 @@
+
+/*for title*/
+.ftitle  
+{
+
+color: #530f6f; font-size: XX-large; font-weight: bolt;
+
+/* text-decoration:underline*/
+}
+
+
+ .c1
+{
+color: #530f6f; 
+/* text-decoration:underline*/
+}
+
+
+
+
+
+/*===========================================*/
+/* Un div englob1 pour bien placer .share-buttons */
+#englob1{
+float:left;
+width: 50%;  /*300px;*/
+
+}
+
+/*v!*/
+
+.share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+/*===========================================*/
+
