@@ -1,8 +1,8 @@
 
-//aumosiris@gmail.com
+
 
 function sendMail() {
-    var link = "mailto:aumosiris@gmail.com"
+    var link = "mailto:labimhotep@gmail.com"
              + "?cc=myCCaddress@example.com"
              + "&subject=" + escape("This is my subject")
              + "&body=" + escape(document.getElementById('myText').value)
@@ -10,5 +10,4 @@ function sendMail() {
 
     window.location.href = link;
 }
-
 
